@@ -1,6 +1,6 @@
 # Covid-Query
 
-Data anylisis of data analysis covid 19 data
+Data anylisis covid 19 data
 
 
 Tableau dashboard link
