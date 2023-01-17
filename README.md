@@ -12,4 +12,4 @@ Tableu dashboard picture
 
 
 Microsoft Powered BI Picture
-<img scr="https://raw.githubusercontent.com/NicksKnack/Covid-Query/main/microsoft%20Power%20Bi.PNG" alt="Microsoft Powered BI Picture">
+<img scr="https://github.com/NicksKnack/Covid-Query/blob/main/tableau_Covid_dashboard_picture.png?raw=true" alt="Microsoft Powered BI Picture">
