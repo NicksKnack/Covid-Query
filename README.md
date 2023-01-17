@@ -17,4 +17,4 @@ Microsoft Powered BI Picture
 
 Microsoft Powred BI mobile picture
 
-<img src="" alt="Microsoft Powred BI mobile picture">
+<img src="https://github.com/NicksKnack/Covid-Query/blob/main/Microsoft_Power_BI_Mobile.png" alt="Microsoft Powred BI mobile picture">
