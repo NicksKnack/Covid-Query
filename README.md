@@ -9,3 +9,7 @@ https://public.tableau.com/app/profile/manzil.sapkota/viz/Covid_16735656188180/D
 Tableu dashboard picture
 
 <img src="https://github.com/NicksKnack/Covid-Query/raw/main/tableau_Covid_dashboard_picture.png" alt="Tableu dashboard picture">
+
+
+Microsoft Powered BI Picture
+<img scr="test">
