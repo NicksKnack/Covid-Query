@@ -13,4 +13,8 @@ Tableu dashboard picture
 
 Microsoft Powered BI Picture
 
-<img src="https://github.com/NicksKnack/Covid-Query/blob/main/microsoft_ower_Bi.PNG" alt="Bowered Bi dashboard picture">
+<img src="https://github.com/NicksKnack/Covid-Query/blob/main/microsoft_Power_Bi.png" alt="Bowered Bi dashboard picture">
+
+Microsoft Powred BI mobile picture
+
+<img src="" alt="Microsoft Powred BI mobile picture">
